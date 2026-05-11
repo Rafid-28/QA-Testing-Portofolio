@@ -1,5 +1,0 @@
-RTM 
-Test Plan
-Summary
-Bug
-Performance
