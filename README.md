@@ -25,3 +25,6 @@ Dokumentasi testing website berita dan informasi desa berbasis web yang dikemban
 
 ### Website Company Profile - Naru Branch Tech
 Dokumentasi testing website company profile berbasis web dengan fokus pada pengujian tampilan antarmuka dan responsive layout.
+
+### Website Pengelolaan inventaris Laboratorium Kebidanan - MidLab Universitas Negeri Malang
+Dokumentasi testing website pengelolaan invetaris lab kebidanan Universitas Negeri Malang
